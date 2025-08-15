@@ -1,0 +1,7 @@
+{
+    "networkName": "sepolia",
+    "chainId": 11155111,
+    "rpcUrl": "https://sepolia.infura.io/v3/YOUR_PROJECT_ID",
+    "currencySymbol": "SepoliaETH",
+    "isTestnet": true
+}
